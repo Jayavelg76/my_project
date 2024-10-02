@@ -1,2 +1,1 @@
-#!/bin/Bash
-echo -e "#!/bin/bash\n# This is script 2"
+# Modified script 2
